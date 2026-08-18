@@ -10,7 +10,7 @@ The work includes signal/data preprocessing, exploratory data analysis, feature-
 
 ## Current contents
 
-- `notebooks/ml_1.ipynb` — current analysis / machine-learning notebook.
+- `ml_1.ipynb` — current analysis / machine-learning notebook.
 
 ## Data
 
